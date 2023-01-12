@@ -1,0 +1,6 @@
+﻿  application.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\dev\openglvs\dependencies\GLFW\include\GLFW\glfw3.h(123,1): message : see previous definition of 'APIENTRY'
+C:\dev\openglvs\openglvs\src\application.cpp(22,17): warning C4244: 'initializing': conversion from 'u32' to 'f32', possible loss of data
+C:\dev\openglvs\openglvs\src\application.cpp(337,26): warning C4244: 'initializing': conversion from 'double' to 'f32', possible loss of data
+  openglvs.vcxproj -> C:\dev\openglvs\x64\Debug\openglvs.exe
